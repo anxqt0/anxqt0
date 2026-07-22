@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi, I'm Ratchaphum Wongrean 👋
+# Hi, I'm Ratchaphum Wongrean
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" alt="Waving hand" />
 
-### Computer Science Student | Seeking an AI & Computer Vision Internship
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Seeking+an+AI+%26+Computer+Vision+Internship;Interested+in+Object+Detection;Building+Projects+with+Python+and+OpenCV"
+  alt="Typing animation"
+/>
 
 <p>
   Interested in Artificial Intelligence, Computer Vision,<br>
@@ -39,7 +43,13 @@ A computer vision project for detecting and classifying vehicles commonly found 
 - Tested the model with images, recorded videos, and real-time camera footage
 - Improved model performance by reviewing incorrect predictions and refining the dataset
 
-**Technologies:** `Python` `YOLO11` `Roboflow` `OpenCV` `PyTorch` `Google Colab`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/YOLO11-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLO11" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square" alt="Roboflow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
 
 <br>
 
@@ -53,8 +63,6 @@ A Python-based automation tool for performing repetitive tasks on Android emulat
 - Processed, compared, and renamed XML files
 - Implemented error handling, timeout detection, and automatic application restarts
 
-**Technologies:** `Python` `OpenCV` `ADB` `XML`
-
 ---
 
 ## 🛠️ Skills and Tools
@@ -63,11 +71,19 @@ A Python-based automation tool for performing repetitive tasks on Android emulat
 
 ### Programming and AI
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi" alt="Python, PyTorch, OpenCV, and FastAPI" />
+<img
+  src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi"
+  alt="Python, PyTorch, OpenCV, and FastAPI"
+/>
+
+<br><br>
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and Visual Studio Code" />
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode"
+  alt="Git, GitHub, and Visual Studio Code"
+/>
 
 <br><br>
 
@@ -79,18 +95,24 @@ A Python-based automation tool for performing repetitive tasks on Android emulat
 
 ## 🎯 Areas of Interest
 
-- Artificial Intelligence
-- Computer Vision
-- Object Detection
-- Dataset Preparation
-- Model Training and Evaluation
-- Python Automation
-- API Development
+<div align="center">
+
+| Artificial Intelligence | Computer Vision | Object Detection |
+|:---:|:---:|:---:|
+| Dataset Preparation | Model Evaluation | Python Automation |
+| API Development | Image Processing | Machine Learning |
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thank you for visiting my GitHub profile! ⭐
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+GitHub+profile!;Always+learning+and+building+new+things."
+  alt="Closing typing animation"
+/>
+
+### ⭐ Feel free to explore my repositories
 
 </div>
