@@ -1,36 +1,53 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ratchaphum
-==================================================================================================================================
+# Hi, I'm Ratchaphum Wongrean 👋
 
-I am study at University Phayao
+### Computer Science Student | Seeking an AI & Computer Vision Internship
 
-*   🌍  I'm based in Chaing Rai, Thailand
-*   ✉️  You can contact me at [mynameisauto1@gmail.com](mailto:mynameisauto1@gmail.com)
-  ### Skills
+I'm a Computer Science student at the **University of Phayao** with an interest in artificial intelligence, computer vision, object detection, and Python automation.
+
+- 🎓 Studying Computer Science at the University of Phayao
+- 📍 Based in Chiang Rai, Thailand
+- 🤖 Interested in AI, Computer Vision, and Object Detection
+- 🚗 Developing a Thai vehicle detection model using YOLO11
+- ⚙️ Building Python automation tools using OpenCV and ADB
+- 📅 Available for an internship from 2 November 2026 to 12 February 2027
+- 📧 Contact me at [mynameisauto1@gmail.com](mailto:mynameisauto1@gmail.com)
+
+## Featured Projects
+
+### Thai Vehicle Detection and Classification
+
+- Prepared and annotated 5,931 images across 17 vehicle classes
+- Trained a YOLO11 object detection model
+- Tested the model with images, recorded videos, and real-time camera footage
+- Improved model performance by reviewing incorrect predictions and refining the dataset
+- Worked with Roboflow, Ultralytics YOLO, OpenCV, FastAPI, and Google Colab
+
+### Python Automation Tool
+
+- Developed Python scripts for automating repetitive tasks on Android emulators
+- Controlled multiple emulator instances using ADB
+- Used OpenCV image matching to detect and interact with on-screen elements
+- Implemented error handling, timeout detection, and automatic application restarts
+- Processed, compared, and renamed XML files
+
+## Skills and Tools
+
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,git,github,vscode" alt="Python, PyTorch, OpenCV, FastAPI, Git, GitHub, and Visual Studio Code" />
 </p>
-Socials
-                  
-                  
+
+**Additional tools:** YOLO11, Roboflow, Google Colab, ADB, Vercel, XML
+
+## Connect with Me
+
 <p align="left">
-                      <a href="https://www.facebook.com/Ratchaphum-Wongrean/pfbid07CCwYbEm6MHWCd8AYLkZqhcLesGaT2rNNb6WgfSdb8qF7Bb7zTHnyhkyrir8UfTKl/" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.github.com/anxqt0" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="http://www.instagram.com/anxqt0_/" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
+  <a href="https://github.com/anxqt0">
+    <img src="https://img.shields.io/badge/GitHub-anxqt0-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/anxqt0_/">
+    <img src="https://img.shields.io/badge/Instagram-anxqt0__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:mynameisauto1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
